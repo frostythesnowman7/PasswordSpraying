@@ -7,7 +7,7 @@ import time
 # optional, use this on Linux and if you are not logged in when using nordvpn command
 guess_per_ip = 2
 guess_per_username = 2
-subdomain = 'tripactions'
+subdomain = 'yousubdomain'
 
 """
 countries = ['United States', 'Canada', 'Argentina', 'Brazil', 'Mexico', 'Costa Rica', 'Chile', 
